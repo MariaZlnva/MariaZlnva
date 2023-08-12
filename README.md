@@ -52,8 +52,8 @@
     <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/AboutTravel.jpg" alt="Куда я поеду" title="Куда я поеду" width="320" height="170"/>
   </a> &nbsp;
  <div>
-  <h3>React:</h3>
-  <a href="https://github.com/MariaZlnva/react-mesto-auth" target="_blank">
+  <h3>React: Frontend & backend</h3>
+  <a href="https://github.com/MariaZlnva/react-mesto-api-full-gha" target="_blank">
     <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/Mesto.jpg" alt="Место" title="Место" width="320" height="170"/>
   </a> &nbsp;
    <a href="https://github.com/MariaZlnva/movies-explorer-frontend" target="_blank">
