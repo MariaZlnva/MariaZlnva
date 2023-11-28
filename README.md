@@ -53,31 +53,41 @@
 &nbsp;
 
 <div align="center">
+ 
  <div>
-  <h3>React, Typescrypt, ReduxToolkit, SCSS</h3>
-   <a href="https://github.com/Personal-training-and-nutrition/personal-training-and-nutrition-frontend/tree/main" target="_blank">
-    <img src="https://github.com/MariaZlnva/MariaZlnva/blob/main/desktop.jpg" alt="Cкрин начальной страницы приложения" title="Веб-приложение для заказа услуг персональных тренеров, диетологов и нутрициологов" width="320" height="170"/>
-  </a>
+  <h3>React, Typescrypt, ReduxToolkit, SCSS (командная работа)</h3>
+     <a href="https://github.com/Personal-training-and-nutrition/personal-training-and-nutrition-frontend/tree/main" target="_blank">
+      <img src="https://github.com/MariaZlnva/MariaZlnva/blob/main/desktop.jpg" alt="Cкрин начальной страницы приложения" title="Веб-приложение для заказа услуг персональных тренеров, диетологов и нутрициологов" width="320" height="170"/>
+    </a>
  </div>
  <div> 
-  <h3>React: Frontend & backend</h3>
-  <a href="https://github.com/MariaZlnva/react-mesto-api-full-gha" target="_blank">
-    <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/Mesto.jpg" alt="Место" title="Место" width="320" height="170"/>
-  </a> &nbsp;
-   <a href="https://github.com/MariaZlnva/movies-explorer-frontend" target="_blank">
-    <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/Movies.jpg" alt="Поиск фильмов" title="Movies" width="320" height="170"/>
-  </a>
+    <h3>React: Frontend & backend</h3>
+    <a href="https://github.com/MariaZlnva/react-mesto-api-full-gha" target="_blank">
+      <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/Mesto.jpg" alt="Место" title="Место" width="320" height="170"/>
+    </a> &nbsp;
+     <a href="https://github.com/MariaZlnva/movies-explorer-frontend" target="_blank">
+      <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/Movies.jpg" alt="Поиск фильмов" title="Movies" width="320" height="170"/>
+    </a>
  </div> 
+ 
    <h3>JS</h3>
-  <a href="https://github.com/MariaZlnva/how-to-learn" target="_blank">
-    <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/HowToLearn.jpg" alt="Научится учиться" title="Научится учиться" width="320" height="170"/>
-  </a> &nbsp;
-   <a href="https://github.com/MariaZlnva/russian-travel" target="_blank">
-    <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/Travel.jpg" alt="Путешествия по России" title="Путешествия по России" width="320" height="170"/>
-  </a> &nbsp;
-   <a href="https://github.com/MariaZlnva/kuda-ya-poedy" target="_blank">
-    <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/AboutTravel.jpg" alt="Куда я поеду" title="Куда я поеду" width="320" height="170"/>
-  </a> &nbsp;
+     <a href="https://github.com/MariaZlnva/welbex" target="_blank">
+      <div>
+       <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/welbex-desktop.jpg" alt="Фото десктопной страницы сайта Welbex" title="Одностраничный адаптивный сайт Welbex" width="260" height="170"/>
+       <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/welbex-mobile.jpg" alt="Фото мобильной страницы сайта Welbex" title="Одностраничный адаптивный сайт Welbex" width="60" height="170"/>
+      </div>
+     </a> &nbsp;
+     <a href="https://github.com/MariaZlnva/how-to-learn" target="_blank">
+       <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/HowToLearn.jpg" alt="Научится учиться" title="Научится учиться" width="320" height="170"/>
+     </a> &nbsp;
+      <a href="https://github.com/MariaZlnva/russian-travel" target="_blank">
+       <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/Travel.jpg" alt="Путешествия по России" title="Путешествия по России" width="320" height="170"/>
+     </a> &nbsp;
+      <a href="https://github.com/MariaZlnva/kuda-ya-poedy" target="_blank">
+       <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/AboutTravel.jpg" alt="Куда я поеду" title="Куда я поеду" width="320" height="170"/>
+     </a> &nbsp;
+    
+  
  <div>
   
  
