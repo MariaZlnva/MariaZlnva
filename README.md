@@ -53,13 +53,20 @@
 &nbsp;
 
 <div align="center">
- 
- <div>
+<div>
+ <a href="https://github.com/MariaZlnva/todo-list" target="_blank">
+      <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/todo.jpg" alt="Скрин-todo-list" title="ToDoList" width="320" height="170"/>
+  </a> &nbsp;
+<a href="https://github.com/MariaZlnva/welbex" target="_blank">
+      <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/welbex-desktop.jpg" alt="Скрин десктор страницы Welbex" title="Одностраничный адаптивный сайт Welbex" width="320" height="170"/>
+    </a>
+</div>
+    
   <h3>React, Typescrypt, ReduxToolkit, SCSS (командная работа)</h3>
      <a href="https://github.com/Personal-training-and-nutrition/personal-training-and-nutrition-frontend/tree/main" target="_blank">
       <img src="https://github.com/MariaZlnva/MariaZlnva/blob/main/desktop.jpg" alt="Cкрин начальной страницы приложения" title="Веб-приложение для заказа услуг персональных тренеров, диетологов и нутрициологов" width="320" height="170"/>
     </a>
- </div>
+
  <div> 
     <h3>React: Frontend & backend</h3>
     <a href="https://github.com/MariaZlnva/react-mesto-api-full-gha" target="_blank">
@@ -71,12 +78,6 @@
  </div> 
  
    <h3>JS</h3>
-     <a href="https://github.com/MariaZlnva/welbex" target="_blank">
-      <div>
-       <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/welbex-desktop.jpg" alt="Фото десктопной страницы сайта Welbex" title="Одностраничный адаптивный сайт Welbex" width="260" height="170"/>
-       <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/welbex-mobile.jpg" alt="Фото мобильной страницы сайта Welbex" title="Одностраничный адаптивный сайт Welbex" width="60" height="170"/>
-      </div>
-     </a> &nbsp;
      <a href="https://github.com/MariaZlnva/how-to-learn" target="_blank">
        <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/HowToLearn.jpg" alt="Научится учиться" title="Научится учиться" width="320" height="170"/>
      </a> &nbsp;
@@ -86,9 +87,5 @@
       <a href="https://github.com/MariaZlnva/kuda-ya-poedy" target="_blank">
        <img src="https://raw.githubusercontent.com/mariaZlnva/MariaZlnva/39530c3945a638d290ff99b4b11634bc1d6fd404/AboutTravel.jpg" alt="Куда я поеду" title="Куда я поеду" width="320" height="170"/>
      </a> &nbsp;
-    
-  
- <div>
-  
  
 </div>
