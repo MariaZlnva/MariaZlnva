@@ -57,8 +57,11 @@
  <a href="https://github.com/MariaZlnva/todo-list" target="_blank">
       <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/todo.jpg" alt="Скрин-todo-list" title="ToDoList" width="320" height="170"/>
   </a> &nbsp;
+  <a href="https://github.com/MariaZlnva/daily-langs" target="_blank">
+      <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/dailyLangs1.jpg" alt="Скрин десктор страницы" title="Одностраничный адаптивный сайт" width="320" height="170"/>
+  </a> &nbsp;
 <a href="https://github.com/MariaZlnva/welbex" target="_blank">
-      <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/welbex-desktop.jpg" alt="Скрин десктор страницы Welbex" title="Одностраничный адаптивный сайт Welbex" width="320" height="170"/>
+      <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/welbex-desktop.jpg" alt="Скрин десктор страницы Welbex" title="Одностраничный адаптивный сайт Welbex" width="300" height="170"/>
     </a>
 </div>
     
