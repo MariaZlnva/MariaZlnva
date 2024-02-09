@@ -55,7 +55,7 @@
 
 <div align="center">
 <div>
-  <a href="https://github.com/MariaZlnva/test-hex" target="_blank">
+  <a href="https://github.com/MariaZlnva/shorter" target="_blank">
       <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/Shorter.jpg" alt="Скрин-shorter" title="Shorter" width="320" height="170"/>
   </a> &nbsp;
  <a href="https://github.com/MariaZlnva/frontend-challenge" target="_blank">
