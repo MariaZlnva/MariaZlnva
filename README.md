@@ -55,6 +55,12 @@
 
 <div align="center">
 <div>
+  <a href="https://github.com/MariaZlnva/test-hex" target="_blank">
+      <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/Shorter.jpg" alt="Скрин-shorter" title="Shorter" width="320" height="170"/>
+  </a> &nbsp;
+ <a href="https://github.com/MariaZlnva/frontend-challenge" target="_blank">
+      <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/catstagramm.jpg" alt="Скрин-catstagramm" title="Catstagramm" width="320" height="170"/>
+  </a> &nbsp;
  <a href="https://github.com/MariaZlnva/todo-list" target="_blank">
       <img src="https://github.com/MariaZlnva/MariaZlnva/blob/assets/todo.jpg" alt="Скрин-todo-list" title="ToDoList" width="320" height="170"/>
   </a> &nbsp;
