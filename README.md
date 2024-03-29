@@ -6,7 +6,7 @@
 ---
 ### Мои контакты 📧: 
 <a href="https://t.me/mariaZlnva"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt="Telegram"></a>
-<a href="mailto:zma611@yandex.ru"><img src="https://img.shields.io/badge/%40mail-orange?style=for-the-badge&logo=Mail.Ru&logoColor=FFFF"></a>
+<a href="mailto:zma611@yandex.ru"><img src="https://img.shields.io/badge/%40mail-orange?style=for-the-badge&logoColor=FFFF"></a>
 &nbsp;
 
 ### Обо мне 🙋:
